@@ -1,6 +1,5 @@
 # Turbo-Thrust
 Game developed in Unity
-# Turbo Thrust 
 
 **Turbo Thrust** is an exciting adventure-racing game developed using Unity and C#. Players can race against friends or embark on thrilling solo adventures across diverse, immersive tracks.
 
